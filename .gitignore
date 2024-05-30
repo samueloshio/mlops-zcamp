@@ -1,2 +1,9 @@
 01-Intro/data/raw/yellow_tripdata_2023-01.parquet
 01-Intro/data/raw/yellow_tripdata_2023-02.parquet
+02-experiment-tracking/data/raw/green_tripdata_2023-01.parquet
+02-experiment-tracking/data/raw/green_tripdata_2023-02.parquet
+02-experiment-tracking/data/raw/green_tripdata_2023-03.parquet
+02-experiment-tracking/data/output/dv.pkl
+02-experiment-tracking/data/output/test.pkl
+02-experiment-tracking/data/output/train.pkl
+02-experiment-tracking/data/output/val.pkl
